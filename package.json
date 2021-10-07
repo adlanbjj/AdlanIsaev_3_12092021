@@ -1,0 +1,19 @@
+{
+  "name": "adlanisaev_3_12092021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./sass/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adlanbjj/AdlanIsaev_3_12092021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adlanbjj/AdlanIsaev_3_12092021/issues"
+  },
+  "homepage": "https://github.com/adlanbjj/AdlanIsaev_3_12092021#readme"
+}
